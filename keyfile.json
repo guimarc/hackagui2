@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stephany-ura",
+  "private_key_id": "9e283ed9a2c2f13dab938fcce84d5767a8db17dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBKgL8NM+K/376\nm2if4XqLgPrX+fE0g+oWwOYVNtO6wb/tAbeN5JOQcdwhxtiSNE02iMydVTy5Q7cY\nMN0WZaFFNs583GGalM880ds2xc08evY4qJHazbLH88XvkixzMv9feqJ/iP6qcm/M\nZCoOtTz5W+qVG+wZewmbhO4KnfFB9bW/qkzcr1wSORACzPWWrFMpV37VIxbJkgDZ\nYsNdI/BYBwuLgfo77lPor1U02EZ3O4V9GFIp297jDrc+KZHLDRomaeGoa4PCb1SA\nabeniotSKmKfByM8VUNK8Ww3IMTlu3Juw5DcutE184nlQv8SGkspYImBUtl24/wr\nCJsrQCclAgMBAAECggEAAfOPjAF84glx96UV0USYaX0lsvqPM1TY6FTcjPTt/jEU\n5CFfT2ttgKuHB44r3IxpVNF6DdvsWpWNsoLKBBKZsI9kLsn3yOudUjKDAKiTXYWW\n8rxadNyTRvLsga13NVa5ZjFNM2tAMJs9+DPxTqyTvkUomel96rusoATkdh/EC33V\nN5tpSHr0sYYkXRMMkvzfVKi9XZzUnAnsd5xYdOXl2p/OBL1qJvanFybZDL047VMV\nHyXhUJ24fyRfco98bR2m7Eq4W41tFG5lsii38jAgk4Mr9ltjV/OtdIcWHOspdr77\nJgFhgF80xEaL6IYhJHItGALSLde+c7wvhXN/33AdAQKBgQD6eQt/kcYW2CilW0Hc\neqeBVAzRAnaZfQz25fWTi0VVes807f7uC4uQCGwS1KYVmhbwj/VoKwA4dj+CTjLu\ni0pHn/wStJI6KdcMvNq57qTeiwvfbw008QZPtv+dOdVnRQh2EqEa75mnHMY1e4Za\nKp/akU2HdHi385csSnGa4tA/wQKBgQDFbTjTOUUy9Rf8MZIiZ6HFQSSoVTru4R5v\n8SYxgp2QKbNwzULBNXVGOhx0px4f0VTFjn4i0kn0MnlRfKUWPdtgEKosic79Y7ww\n0zEj60D9Ez2HkD0Wfpt43gEG/neQpKlUjceT2rZsAGYZE+m+tP/06KbgmaB2uHFM\nDAljJNcAZQKBgQDnB/OlLa7Lr4J+U5iCZ9hNoFtaBq2ikgf9TMuh1lqTp/2sUsJM\ni/WlWz9kdyTi1AjIx+CSvucrLVcTOFIeWfif7F+0WT5vy9wCcchGrGsCorrG00YZ\nSSCLMr7AJXJEGRbe4fwcPlk6HX5uIowgaySblF8wzCv1cQhF4Dy9oux3gQKBgGDD\nRJu6MSFloSjZPu+f7VjZsdbTVzwnmBxzjC2t//3dgnZiFDrQMbeG2dWO5yPfHHZr\nfYUhnl+SsYVv2xYIoVH3OQD1Vj85N86SZD5fmo2vdXPRDS/OQ/M8lDJSXFXHbrrj\ndpMQGmLa2y+lY+Y1nlHyCYCBq3Ukt1r3d05hiwNFAoGADJZOJRN/tT8Uk7UH8sdy\naZ6nQnavI1nT9EE2XeEYfYp7A08EWaAgYAatK5ntUoybrhpE5BFd4MsemZxqkyhC\nsSBru8y0Z/HtdAg27vg6HURtMT4z4GCQQLul8P3Yyj73kGDOaW3AbDcu4TIJiC9B\n6KDaR7ztwMln7kgvFlr/B5o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stephany-ura@stephany-ura.iam.gserviceaccount.com",
+  "client_id": "109927585417710803801",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stephany-ura%40stephany-ura.iam.gserviceaccount.com"
+}

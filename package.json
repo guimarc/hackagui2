@@ -1,0 +1,19 @@
+{
+  "name": "NodejsStarterApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^1.0.0",
+    "cfenv": "^1.0.4",
+    "express": "4.15.x",
+    "https": "^1.0.0",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "repository": {},
+  "engines": {
+    "node": "6.x"
+  }
+}
